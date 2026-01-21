@@ -2,8 +2,8 @@
 
 ## Student Details
 
-Full Name: `Joshua Terry`
-CCID: `jrterry`
+- **Full Name:** `Joshua Terry`
+- **CCID:** `jrterry`
 
 ## References and Resources
 
